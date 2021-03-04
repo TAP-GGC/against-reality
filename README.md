@@ -13,7 +13,7 @@ We are using EchoAR
 EchoAR is a platform where you can generate digital obejcts through your phone. </br>
 Our Vision:To get everyone excited about our AR technogoly and understanding the benefits in many fields including marketing, education, and medical fields.
 
-Models are used on echoAR to represent the images we use to represent the Augmented Reality feel.
+Models are used on echoAR to represent the Augmented Reality feel.
 
 Anchors are on each model to scan an area in order for them to be placed where you want it to set once it is set the models stay in the specific location users tell it to go.
 
