@@ -17,7 +17,16 @@ Models are used on echoAR to represent the Augmented Reality feel.
 
 Anchors are on each model to scan an area in order for them to be placed where you want it to set once it is set the models stay in the specific location users tell it to go.
 
+# Technology
+The technology used for this project was an online coding program called EchoAr. EchoAr uses models and metadata in order to launch them on your phone through the camera.
+
+# Outreach
+TAP Expo, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+Class Workshops, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
+
+# Publications
+CREATE Symposium Poster Create workshop [Space - Science Fair Project.pdf](https://github.com/TechAmbassadors-GGC/against-reality/files/6453538/Space.-.Science.Fair.Project.pdf)
 
 # Links
 Link to TAP program https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/</br>
-here is a link to the EchoAr webpage: https://www.echoar.xyz/</br>
+here is a link to the EchoAr webpage go ahead and try it out: https://www.echoar.xyz/</br>
