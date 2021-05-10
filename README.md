@@ -28,5 +28,5 @@ The technology used for this project was an online coding program called EchoAr.
 CREATE Symposium Poster Create workshop [Space - Science Fair Project.pdf](https://github.com/TechAmbassadors-GGC/against-reality/files/6453538/Space.-.Science.Fair.Project.pdf)
 
 # Links
-Link to TAP program https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/</br>
-here is a link to the EchoAr webpage go ahead and try it out: https://www.echoar.xyz/</br>
+1. Link to TAP program https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/</br>
+2. Here is a link to the EchoAr webpage go ahead and try it out: https://www.echoar.xyz/</br>
